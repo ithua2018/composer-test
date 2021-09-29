@@ -1,0 +1,20 @@
+{
+    "name": "ithua2018/composer-test",
+    "authors": [
+        {
+            "name": "ithua",
+            "email": "673509045@qq.com"
+        }
+    ],
+    "description": "composer-test",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.2"
+    },
+     "autoload": {
+        "psr-4": {
+            "ithua2018\\ComposerTest\\": "src/"
+        }
+    }
+
+}
